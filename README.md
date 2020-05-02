@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-![church](http://lanark-on.canada-advisor.com/img/companies/37/379/3798/37981/379810.jpg)
+![church](https://raw.githubusercontent.com/netscruff/prestonvale/master/images/church.jpg)
 
 You can use the [editor on GitHub](https://github.com/netscruff/prestonvale/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
